@@ -5,7 +5,7 @@ import SVG_IMAGE from './laptop-cms.svg';
 const App: React.FC = () => {
   return (
     <div>
-      <h1>React TypeScript project my code</h1>
+      <h1>React TypeScript project base config</h1>
       <img src={SVG_IMAGE} alt='svg' width='350' />
     </div>
   );
